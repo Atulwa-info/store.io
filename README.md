@@ -1,2 +1,2 @@
-# store.io
-store.io repo
+# Atulwa-info.github.io
+Atulwa web io
